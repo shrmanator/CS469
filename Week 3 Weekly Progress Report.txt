@@ -1,1 +1,29 @@
-Week 3 Weekly Progress Report
+=== Week 3 Weekly Progress Report ===
+
+
+1. Goals for this week - 5hrs
+    ✓ Get familiar with Unity environment; make sure HMD can be connected - 2hr
+    ✓ Get familiar with the C# language. - 3hr
+
+2. What you accomplished 
+    I was able to get my headset connected to my computer running osx but 
+
+3. How this compares with your plan
+    I had to usilize my mitigation action, but not for the reason I predicted.
+    I thought i would end up using w11 but mainly because of CPU constrains. 
+
+4. Recovery plan if you are off track
+
+
+5. Plan for next week
+    Next week I'm back to daily scheduling so I will work to set up a basic scene so that the locomotion engine can developed and tested
+    and hopefully I'll be able to I will spend 1 to 2 hours gathering and logging my average motion controller 3d coordinates for forward movement direction only, (ie., motion controller is in front of body). - 2hr
+
+6. What is blocking you/help needed 
+
+
+7. Walkthrough of this week’s UI/UX and code evolution
+    ✓ Show .c# file with basic code and imported superscience API.
+    ✓ Show quest 2 running on Oculus Software.
+
+
