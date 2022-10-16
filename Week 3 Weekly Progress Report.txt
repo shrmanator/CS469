@@ -1,9 +1,9 @@
 === Week 3 Weekly Progress Report ===
 
 
-1. Goals for this week - 5hrs
-    ✓ Get familiar with Unity environment; make sure HMD can be connected - 2hr
-    ✓ Get familiar with the C# language. - 3hr
+1. Goals for this week
+    ✓ Get familiar with Unity environment; make sure HMD can be connected 
+    ✓ Get familiar with the C# language. 
 
 2. What you accomplished 
     I was able to get my headset connected to my computer running osx but 
